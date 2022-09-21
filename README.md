@@ -33,7 +33,6 @@
 </p>
 <p align="center">
 
-Studio&logoColor=white">
 
   <img alt="Notion" src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black">
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4a15ab?style=flat-square&logo=Slack&logoColor=white">
