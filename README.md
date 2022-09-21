@@ -1,5 +1,5 @@
 ### Hi I'm ✨ YUJEONG ✨
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30&type=Waving&text=Yujeong&nbsp;Kim!&fontSize=40&theme=gruvbox_light)
+![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30&type=Waving&text=Yujeong&nbsp;Ham!&fontSize=40&theme=gruvbox_light)
 
 <div align="center">
   <h3> :heart: YUJEONG :heart: </h3>
